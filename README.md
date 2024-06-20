@@ -41,7 +41,7 @@ This project allows you to apply practical web development skills while creating
 - **Version Control and Publishing**: Utilize Git for version control and GitHub Pages for online publishing.
 
 ## Instructions
-- Use the provided example in the `jekyll-portfolio` folder as a starting point.
+- Use the provided example in the `jekyll-portfolio` repository as a starting point.
 - Customize your site by adding at least three Markdown pages that detail your professional background, projects, and contact information.
 - Ensure your site is visually appealing and navigable.
 
