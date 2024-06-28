@@ -11,7 +11,7 @@
 
 ## Project Goals
 -  Gain a comprehensive understanding of Markdown syntax and its application in creating web content. Students will demonstrate proficiency in formatting text, inserting images, and linking to external resources.
-- Learn the fundamentals of web development through Jekyll, an open-source static site generator. This includes setting up a Jekyll site, customizing themes, and understanding site configuration.
+- Learn the fundamentals of web development through Jekyll, an open-source static site generator.
 - Demonstrate the ability to deploy a live website using GitHub Pages, making the personal portfolio accessible on the internet.
 
 ## Tools
@@ -58,12 +58,11 @@ This project allows you to apply practical web development skills while creating
 Submit the URL of your GitHub Pages site along with the GitHub repository link where your Jekyll site code is hosted.
 
 ## Project Assessment
-- **Content Organization (20%)**: Content should be well-organized, with logical structuring that makes navigation intuitive.
+- **Content Organization (10%)**: Content should be well-organized, with logical structuring that makes navigation intuitive.
 - **Creativity and Personalization (20%)**: The portfolio should reflect a personal touch and creative approach to content presentation.
-- **Functionality and Usability (20%)**: All website features must function correctly, including links, navigation, and media content.
-- **Technical Implementation (20%)**: Effective use of Jekyll and Markdown, demonstrating understanding of static site generation and content formatting.
-- **Aesthetic Appeal (10%)**: The site should be visually appealing, with a consistent theme and professional appearance.
-- **GitHub Pages Deployment (10%)**: Successful deployment of the site on GitHub Pages, with the site being publicly accessible and performing smoothly.
+- **Functionality and Usability (10%)**: All website features must function correctly, including links, navigation, and media content.
+- **Technical Implementation (40%)**: Effective use of Jekyll and Markdown (at least three Markdown pages), demonstrating understanding of static site generation and content formatting.
+- **GitHub Pages Deployment (20%)**: Successful deployment of the site on GitHub Pages, with the site being publicly accessible and performing smoothly.
 
 ## Gator Grade
 ### GatorGrade Checks for Immediate Feedback
