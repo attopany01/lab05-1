@@ -55,7 +55,9 @@ This project allows you to apply practical web development skills while creating
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
 
 ## Deliverables
-Submit the URL of your GitHub Pages site along with the GitHub repository link where your Jekyll site code is hosted.
+Submit the URL of your GitHub Pages site below.
+
+**TODO**
 
 ## Project Assessment
 - **Content Organization (10%)**: Content should be well-organized, with logical structuring that makes navigation intuitive.
