@@ -63,8 +63,9 @@ Submit the URL of your GitHub Pages site below.
 - **Content Organization (10%)**: Content should be well-organized, with logical structuring that makes navigation intuitive.
 - **Creativity and Personalization (20%)**: The portfolio should reflect a personal touch and creative approach to content presentation.
 - **Functionality and Usability (10%)**: All website features must function correctly, including links, navigation, and media content.
-- **Technical Implementation (40%)**: Effective use of Jekyll and Markdown (at least three Markdown pages), demonstrating understanding of static site generation and content formatting.
+- **Technical Implementation (30%)**: Effective use of Jekyll and Markdown (at least three Markdown pages), demonstrating understanding of static site generation and content formatting.
 - **GitHub Pages Deployment (20%)**: Successful deployment of the site on GitHub Pages, with the site being publicly accessible and performing smoothly.
+- **GatorGrader Compliance (10%)**: Meets all GatorGrader criteria.
 
 ## Gator Grade
 ### GatorGrade Checks for Immediate Feedback
