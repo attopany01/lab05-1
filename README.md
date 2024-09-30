@@ -42,8 +42,15 @@ This project allows you to apply practical web development skills while creating
 
 ## Instructions
 - Use the provided example in the `jekyll-portfolio` repository as a starting point.
-- Customize your site by adding at least three Markdown pages that detail your professional background, projects, and contact information.
+- Customize your site by **adding at least three Markdown pages** that detail your professional background, projects, and contact information.
 - Ensure your site is visually appealing and navigable.
+- Create a new branch named `gh-pages` in your repository.
+- Deploy your site through **GitHub Pages**.
+    1. Switch to the `gh-pages` branch: git checkout -b gh-pages.
+    2. Push the `gh-pages` branch to GitHub: git push -u origin gh-pages.
+    3. Navigate to the repository’s Settings > Pages.
+    4. Set the source for GitHub Pages to the gh-pages branch.
+    5. Verify that your site is live.
 
 ### _Notes_: 
 - Ensure that all links are functional and that the site is optimized for readability and accessibility.
