@@ -1,5 +1,5 @@
 # Site settings
-title: Freelancer
+title: Software Engineer
 email: attopany01@allegheny.edu
 baseurl: "/jekyll-portfolio"
 url: ""
@@ -53,8 +53,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 520 N Main Street 
+  - line: Meadville, PA, 16335
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
