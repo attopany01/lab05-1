@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+date: 2024-09-18
+img: dev.webp
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Sept. 26
+client: Hang Zhao
+category: Intro to Visual Studio Code Lab03
+description: In this project, I familiarized myself with the VSCode interface and learned basic navigation techniques. I explored the code editing and debugging features, which helped me improve my coding skills. I utilized extensions to enhance my development productivity, discovering tools that made coding easier and more efficient. I also integrated VSCode with Git for version control, allowing me to manage my code changes effectively.
 ---

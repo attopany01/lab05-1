@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2024-09-18
+img: dev.webp
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Sept. 26
+client: Hang Zhao
+category: Intro to Github Lab02
+description: In this project, I deepened my understanding of GitHub's collaboration features. I explored pull and push operations, learning how to share my code and updates with others. I worked on branches in GitHub to manage different features or fixes separately. I also demonstrated the GitHub Flow, a workflow that helps streamline collaboration. This project enhanced my skills for working effectively with others on coding projects using GitHub.
 ---

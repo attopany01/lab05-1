@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2024-09-18
+img: dev.webp
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Sept. 24
+client: Hang Zhao
+category: Git Lab01
+description: In this project, I learned how to use Git, a tool for managing and tracking changes in code. I started by installing and setting up Git, then created and managed my own repositories. I practiced adding files, checking their status, and saving changes with commits. I also learned how to create and switch between branches, and merge changes to keep my code organized and up-to-date. This project helped me understand how teams work together on coding projects using Git.
 ---
