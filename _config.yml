@@ -1,11 +1,11 @@
 # Site settings
-title: Software Engineer
+title: Jeff A
 email: attopany01@allegheny.edu
 baseurl: "/jekyll-portfolio"
 url: ""
 description: "Jekyll Portfolio Site"
 keywords: "Portfolio, Jekyll"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Web Developer - Software Engineer"
 meta_author: Jeff Attopany
 
 # Google webmaster tools
