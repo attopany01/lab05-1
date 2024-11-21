@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2024-09-18
-img: dev.webp
+img: dev.png
 alt: image-alt
 project-date: Sept. 24
 client: Hang Zhao
