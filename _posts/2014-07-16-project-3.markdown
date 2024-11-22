@@ -3,9 +3,45 @@ layout: default
 modal-id: 3
 date: 2024-09-18
 img: dev.png
-alt: image-alt
+alt: A representation of Visual Studio Code
 project-date: Sept. 26
 client: Hang Zhao
 category: Intro to Visual Studio Code Lab03
-description: In this project, I familiarized myself with the VSCode interface and learned basic navigation techniques. I explored the code editing and debugging features, which helped me improve my coding skills. I utilized extensions to enhance my development productivity, discovering tools that made coding easier and more efficient. I also integrated VSCode with Git for version control, allowing me to manage my code changes effectively.
+description: |
+  This project introduced me to Visual Studio Code. I learned how to use its tools for editing, debugging, and managing code, along with extensions to improve productivity.
 ---
+
+# Intro to Visual Studio Code Lab03: Getting Started  
+### Client: Hang Zhao  
+**Project Date:** September 26, 2024  
+**Category:** Code Editing & Productivity  
+
+---
+
+## **Overview**
+In this project, I got to know Visual Studio Code (VSCode), a powerful tool for coding. I focused on:  
+- **Interface Navigation:** Learning how to move around and use the editor efficiently.  
+- **Code Editing and Debugging:** Writing and fixing code more easily.  
+- **Extensions:** Adding tools to improve my workflow.  
+- **Git Integration:** Using VSCode to manage code changes with Git.  
+
+> VSCode makes coding smoother and gives you the tools you need to work faster and better.
+
+---
+
+## **Reflection**
+This project helped me feel confident using VSCode for coding. I learned how to set it up with tools that make development easier and how to work with Git directly in the editor.  
+
+### Key Skills:
+- Editing and debugging code efficiently.  
+- Using extensions to add helpful features.  
+- Managing code versions without leaving VSCode.  
+
+---
+
+## **Resources**
+- [Visual Studio Code Docs](https://code.visualstudio.com/docs)  
+- [Top VSCode Extensions](https://marketplace.visualstudio.com/)  
+- [Git Integration Guide](https://code.visualstudio.com/docs/editor/versioncontrol)  
+
+This project showed me how VSCode can simplify coding and boost productivity.

@@ -3,9 +3,44 @@ layout: default
 modal-id: 2
 date: 2024-09-18
 img: dev.png
-alt: image-alt
+alt: A representation of GitHub collaboration
 project-date: Sept. 26
 client: Hang Zhao
-category: Intro to Github Lab02
-description: In this project, I deepened my understanding of GitHub's collaboration features. I explored pull and push operations, learning how to share my code and updates with others. I worked on branches in GitHub to manage different features or fixes separately. I also demonstrated the GitHub Flow, a workflow that helps streamline collaboration. This project enhanced my skills for working effectively with others on coding projects using GitHub.
+category: Intro to GitHub Lab02
+description: |
+  This project was about learning how to work with GitHub to share and manage code with others. I practiced using pull and push, managing branches, and following the GitHub Flow.
 ---
+
+# Intro to GitHub Lab02: Working Together  
+### Client: Hang Zhao  
+**Project Date:** September 26, 2024  
+**Category:** Version Control & Teamwork  
+
+---
+
+## **Overview**
+In this project, I learned how to use GitHub for teamwork. I focused on:  
+- **Pull and Push:** Sending updates and getting changes from others.  
+- **Branches:** Keeping different features or fixes separate.  
+- **GitHub Flow:** A simple way to work with a team step-by-step.  
+
+> GitHub makes it easier for everyone to stay on the same page while coding together.
+
+---
+
+## **Reflection**
+This project showed me how to use GitHub to work better with others. I learned how to keep things organized, share my work, and review changes clearly.  
+
+### Key Skills:
+- Sharing updates without overwriting others’ work.  
+- Keeping code clean and organized with branches.  
+- Following a process to make teamwork smoother.  
+
+---
+
+## **Resources**
+- [GitHub Docs](https://docs.github.com/)  
+- [GitHub Flow Guide](https://guides.github.com/introduction/flow/)  
+- [Pro Git Book](https://git-scm.com/book/en/v2)  
+
+This project helped me see how GitHub makes coding in a team easier and more organized.

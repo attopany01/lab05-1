@@ -3,9 +3,41 @@ layout: default
 modal-id: 1
 date: 2024-09-18
 img: dev.png
-alt: image-alt
+alt: A representation of Git development
 project-date: Sept. 24
 client: Hang Zhao
 category: Git Lab01
-description: In this project, I learned how to use Git, a tool for managing and tracking changes in code. I started by installing and setting up Git, then created and managed my own repositories. I practiced adding files, checking their status, and saving changes with commits. I also learned how to create and switch between branches, and merge changes to keep my code organized and up-to-date. This project helped me understand how teams work together on coding projects using Git.
+description: |
+  This project introduced me to Git, a vital version control tool in software development, where I practiced managing repositories, tracking changes, and collaborating effectively.
 ---
+
+# Git Lab01: Introduction to Version Control  
+### Client: Hang Zhao  
+**Project Date:** September 24, 2024  
+**Category:** Version Control Systems  
+
+---
+
+## **Overview**
+This project was an introduction to Git, a powerful tool for tracking and managing code changes. I focused on:  
+- Setting up Git and configuring user credentials.  
+- Creating and managing repositories.  
+- Tracking changes with commits.  
+- Working with branches to organize development.  
+- Merging changes and resolving conflicts.  
+
+> Version control is the foundation of collaboration in software development.
+
+---
+
+## **Reflection**
+Through this project, I learned how Git simplifies teamwork and keeps projects organized. Key lessons included the importance of frequent commits, using branches for experimentation, and maintaining clear histories to avoid conflicts.  
+
+---
+
+## **Resources**
+- [Git Documentation](https://git-scm.com/doc)  
+- [Pro Git Book](https://git-scm.com/book/en/v2)  
+- [GitHub Guides](https://guides.github.com/introduction/git-handbook/)  
+
+Git is now a core skill I’m confident in using for future projects.
